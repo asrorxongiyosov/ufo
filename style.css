@@ -53,6 +53,7 @@ footer {
 
 #ufoAnimation{
     display: none;
+    transition: 2s ease;
 }
 
 
